@@ -25,8 +25,8 @@ Var
                SetActivePage(n);
                Bar(0,0,640,350);
                OutTextXY(5,5,T);
-               OutTextXY(170,300,'ALI REZA LAGEVARDY   PHYSIC 73');
-               OutTextXy(205,320,'BEHESHTI  UNIVERSITY');
+               OutTextXY(170,300,'ALIREZA LAJEVARDIPOUR PHYSIC 73');
+               OutTextXy(205,320,'NATIONAL  UNIVERSITY');
                OutTextXY(460,340,'Press Any Key To End');
                for a:=0 to 16 do
                    for b:=0 to 36 do begin
